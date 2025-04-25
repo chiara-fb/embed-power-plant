@@ -1,0 +1,4 @@
+sources/
+*.json
+*/__pycache__/
+*/__init__.py

@@ -144,7 +144,6 @@ threadpoolctl==3.5.0
 tokenizers==0.20.1
 torch==2.2.0
 torch-tb-profiler==0.4.3
-tornado==6.4.1
 tqdm==4.66.5
 traitlets==5.14.3
 transformers==4.45.2
